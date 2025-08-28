@@ -37,7 +37,7 @@ const drugCalculators: DrugCalculator[] = [
     url: 'https://script.google.com/macros/s/AKfycbziEJpwtp_JFCmDM5HlHZ3w_4Q1nM4KCyt0GnfSvQPrd9BpuGVT1dklfXwDE7rF-hnN/exec'
   },
   {
-    name: 'Digoxin',
+    name: 'Digoxin injection',
     url: 'https://script.google.com/macros/s/AKfycbwao5KSursVLRwUNUm7CX9yOZpk9knBFd8GLpnpho-jmMLhUTeNqFiIyNJnDNS9iswM/exec'
   },
   {
@@ -65,7 +65,7 @@ const drugCalculators: DrugCalculator[] = [
     url: 'https://script.google.com/macros/s/AKfycbzV3JN60ojrqOCAikoNfqUu8O2rL5zB3xlw-KRt61Qse0KZklEcZVPlVubvfWTAugmM/exec'
   },
   {
-    name: "RI IV (Ringer's Lactate)",
+    name: "RI",
     url: 'https://script.google.com/macros/s/AKfycbzwUQAdq40Sd2qRkqi617X5jL-cz1eevb0CoooONcdZZu7UugEezLMbf-9Q9UFElVc6BQ/exec'
   }
 ];
